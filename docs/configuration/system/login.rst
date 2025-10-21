@@ -37,7 +37,7 @@ Local
 .. cfgcmd:: set system login user <name> authentication principal <principal>
 
    When using SSH certificate based authentication, define which principals are
-   alled to use this account.
+   allowed to use this account.
 
    If unset, the principal will be set to the login name of the user bz default.
 
