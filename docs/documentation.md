@@ -435,9 +435,9 @@ pull-request. This requires you already have a GitHub account.
 - If you also want to update your fork on GitHub, use the following:
 `$ git push origin rolling`
 
-[dockerfile]: https://github.com/vyos/vyos-documentation/blob/rolling/docker/Dockerfile
-[grammarly]: https://www.grammarly.com/
-[readme.md]: https://github.com/vyos/vyos-documentation/blob/rolling/README.md
-[restructuredtext]: http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
-[restructuredtextdirectives]: https://docutils.sourceforge.io/docs/ref/rst/directives.html
-[sphinx-doc]: https://www.sphinx-doc.org
+[Dockerfile]: https://github.com/vyos/vyos-documentation/blob/rolling/docker/Dockerfile
+[Grammarly]: https://www.grammarly.com/
+[README.md]: https://github.com/vyos/vyos-documentation/blob/rolling/README.md
+[restructuredText]: http://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html
+[reStructuredTextDirectives]: https://docutils.sourceforge.io/docs/ref/rst/directives.html
+[Sphinx-doc]: https://www.sphinx-doc.org
